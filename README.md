@@ -1,1 +1,3 @@
-my first readme updated from git hub
+bash
+c
+js
